@@ -19,3 +19,5 @@ Enhances scalability by allowing your servers to scale in our out based on netwo
 
 This is a fully managed service that can send alerts vis email or text to notify you about changes in your cloud environment 
 
+![image alt](https://github.com/DMayrant/Bastion-Host/blob/main/Bastion%20Host.jpeg?raw=true)
+
